@@ -28,7 +28,5 @@ Additionally, focusing solely on experienced professionals may not yield optimal
 
 2. **Incorporate Age Factor** Introduce age as a factor in data collection processes to better target younger audiences who are more likely to be receptive to course offerings. This refinement will optimize resource allocation and improve campaign effectiveness.
 
-3. **Diversify Targeting Strategies** While experienced professionals are valuable, broaden targeting strategies to include younger audiences who may be more inclined to pursue further education and skills development.
-
 By implementing these recommendations, Scaler can enhance its marketing effectiveness, improve learner engagement, and ultimately, drive greater success in its mission to empower software professionals through advanced education and training.
 
