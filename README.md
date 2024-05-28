@@ -32,8 +32,3 @@ Additionally, focusing solely on experienced professionals may not yield optimal
 
 By implementing these recommendations, Scaler can enhance its marketing effectiveness, improve learner engagement, and ultimately, drive greater success in its mission to empower software professionals through advanced education and training.
 
-**Two-Liner Summary:**
-
-**Approach:** Utilized K Means clustering to segment learners based on job profiles and company affiliations, enabling targeted strategies for course promotion and engagement.
-
-**Insights and Impact:** Identified opportunities to refine targeting strategies by focusing on Cluster 0 with lower-than-average CTC, and recommended incorporating age as a factor for improved audience selection, enhancing marketing effectiveness and learner engagement.
